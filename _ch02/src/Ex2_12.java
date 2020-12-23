@@ -10,7 +10,6 @@ public class Ex2_12 {
 		System.out.println("3" + 1); // 31
 		System.out.println(3 + '0'); // 51   0은 숫자로 48
 		*/
-		
 		// 문자는 문자끼리 연산이 가능 , 문자열 charAt 문자로 변환후 문자 끼리 연산
 		// 문자열과 숫자 연산하면 문자열  , 문자열을 Integer.parseInt 인트로변환후 정수끼리 연산가능
 		String str = "3";
